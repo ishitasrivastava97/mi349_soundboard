@@ -1,0 +1,16 @@
+body {
+    margin: 0 auto;
+    background-color: peachpuff;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#button1 {
+    color: blue;
+}
+#button2 {
+    color: red;
+}
+#button3 {
+    color: green;
+}
